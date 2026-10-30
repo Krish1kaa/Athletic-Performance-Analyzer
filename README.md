@@ -42,7 +42,7 @@ Examples of pose landmarks detected in sample videos:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Athletic-Performance-Analyzer.git
+git clone https://github.com/Krish1kaa/Athletic-Performance-Analyzer.git
 cd Athletic-Performance-Analyzer
 ```
 
