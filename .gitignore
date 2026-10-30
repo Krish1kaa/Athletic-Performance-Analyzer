@@ -1,0 +1,26 @@
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Credentials and environment files
+.env
+.env.*
+serviceAccountKey.json
+*service-account*.json
+*.json.key
+
+# MediaPipe model (download separately; see README)
+*.task
+
+# Generated output and personal test videos
+outputs/
+*.mp4
+
+# IDE files
+.vscode/
+.idea/
